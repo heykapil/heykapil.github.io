@@ -2701,7 +2701,7 @@ const PDFViewerApplication = {
 };
 exports.PDFViewerApplication = PDFViewerApplication;
 {
-  const HOSTED_VIEWER_ORIGINS = ["null", "http://mozilla.github.io", "https://mozilla.github.io"];
+  const HOSTED_VIEWER_ORIGINS = ["null", "https://heykapil.in", "https://pdf.heykapil.in", "https://github.com"];
   var validateFileURL = function (file) {
     if (!file) {
       return;
