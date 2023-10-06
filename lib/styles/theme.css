@@ -1,1 +1,3 @@
- 
+.webpage-container {
+  background: var(--background-primary) !important;
+}
